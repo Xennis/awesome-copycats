@@ -79,7 +79,7 @@ local altkey       = "Mod1"
 local terminal     = "termite"
 local editor       = os.getenv("EDITOR") or "nano"
 local gui_editor   = "gvim"
-local browser      = "firefox"
+local browser      = "chromium"
 local guieditor    = "atom"
 local scrlocker    = "xlock"
 
